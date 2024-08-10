@@ -20,9 +20,25 @@
 - 💡 I am analyst by day , actor by evening and player in night
 - 👨‍💻 My hobby is to flirt with beautiful girls
 - 📧 You can reach me at [bhanukhandelwal75@gmail.com](mailto:bhanukhandelwal75@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/) 
-  
-<br />
-<hr>
+
+---
+
+<img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
+
+---
+
+**<i><h3 align="left">Course Badges:</h3></i>**
+ <div>
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/KxVM0SHGIb%2BwtML8Qh2Mlkk1uhzIoUNmxQyAUcGz5fk%3D" alt="2">
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/WRkyESR3PqqNWtl%2BzErShTvUBf332GvmNhwnIiWNd6g%3D" alt="3">
+<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="4"> -->
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/gP0%2BO8fUp0b6T0JRuscTLpeSaE1uBo9lHtxV0VVk4GU%3D" alt="5">
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/sw0jegrgpxW7u2QJcbTXg7rnnY58bR2NfTLhLuUEmTA%3D" alt="6">
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/G6fAOZvKvkwKWNMDHKJYxBqu7x1Jp0AaCNfGLKn8vR0%3D" alt="7">
+<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="8">
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9"> -->
+</div>
+
 
 ### 🚀 What Do I Do? <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
 
@@ -53,3 +69,31 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 </p>
+
+--- 
+**<h3 align="left">Connect with me:</h3>**
+
+**Email:- bhanukhandelwal75@gmail.com**
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/bhanukhandelwal75">
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+<!--   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<p align="left">
+</p>
+
+---
+
+
+
