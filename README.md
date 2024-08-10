@@ -16,7 +16,7 @@
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Live in kota, Rajasthan.
 - 📂 Explore my Portfolio [here](file:///C:/Users/HP.LAPTOP-GGQL1U8J.001/Downloads/Bhanu%20Portfolio/Bhanu%20Portfolio/index.html#projects) 
-- 🔗 Find my cv at [here](https://drive.google.com/file/d/1BAhsYT_03-sehF8pA-gLFDVf_VhIjrfp/view?usp=drive_link)
+- 🔗 Find my cv at [here](https://drive.google.com/file/d/1gUNa5ymEAG5wPzVL_5RaTlBMBBkV0XpU/view?usp=sharing)
 - 💡 I am analyst by day , actor by evening and player in night
 - 👨‍💻 My hobby is to flirt with beautiful girls
 - 📧 You can reach me at [bhanukhandelwal75@gmail.com](mailto:bhanukhandelwal75@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/) 
