@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/bhanukhandelwal75">
+  <a href="https://bhanukhandelwal75.github.io/Portfolio/index.html">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
