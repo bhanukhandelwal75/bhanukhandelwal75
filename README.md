@@ -16,7 +16,7 @@
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Live in kota, Rajasthan.
 - 📂 Explore my Portfolio [here](https://bhanukhandelwal75.github.io/Portfolio/index.html) 
-- 🔗 Find my cv at [here](https://drive.google.com/file/d/1gUNa5ymEAG5wPzVL_5RaTlBMBBkV0XpU/view?usp=sharing)
+- 🔗 Find my cv at [here](https://drive.google.com/file/d/1wiLIL3qCsDO__L2EEajGP3C7XD3-jnV4/view?usp=sharing)
 - 💡 "I’m an analyst by day, an actor by evening, and a gamer by night."
 - 👨‍💻 My hobby is to Bike riding , explore new things, and Understanding sprituality 
 - 📧 You can reach me at [bhanukhandelwal75@gmail.com](mailto:bhanukhandelwal75@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/) 
