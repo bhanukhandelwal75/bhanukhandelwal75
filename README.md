@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/visual_studio_code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Solr-E2231A?style=for-the-badge&logo=apache-solr&logoColor=white" />  
 </div>
 </p>
 
