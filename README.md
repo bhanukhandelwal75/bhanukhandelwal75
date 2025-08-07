@@ -15,8 +15,8 @@
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Live in kota, Rajasthan.
-- 📂 Explore my Portfolio [here](https://bhanukhandelwal75.github.io/Portfolio/index.html) 
-- 🔗 Find my cv at [here](https://drive.google.com/file/d/1oKtJhFIuiYeRe75LGymTfqBgn3WMclu7/view?usp=drive_link)
+- 📂 Explore my [Portfolio here](https://bhanukhandelwal75.github.io/Portfolio/index.html) 
+- 🔗 Find my [CV here](https://drive.google.com/file/d/1oKtJhFIuiYeRe75LGymTfqBgn3WMclu7/view?usp=drive_link)
 - 💡 "I’m an analyst by day, an actor by evening, and a gamer by night."
 - 👨‍💻 My hobby is to Bike riding , explore new things, and Understanding sprituality 
 - 📧 You can reach me at [bhanukhandelwal75@gmail.com](mailto:bhanukhandelwal75@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhanu-khandelwal-59a3ab132/) 
